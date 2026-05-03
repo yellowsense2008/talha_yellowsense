@@ -10,3 +10,6 @@
 [submodule "Track-C-contactless-fingerprint"]
 	path = Track-C-contactless-fingerprint
 	url = https://github.com/TalhaNagina/Track-C-contactless-fingerprint
+[submodule "contactless-fingerprint-demo"]
+	path = contactless-fingerprint-demo
+	url = https://huggingface.co/spaces/talha-yellowsense/contactless-fingerprint-demo
