@@ -7,3 +7,6 @@
 [submodule "Track-B-contactless-fingerprint"]
 	path = Track-B-contactless-fingerprint
 	url = https://github.com/TalhaNagina/Track-B-contactless-fingerprint
+[submodule "Track-C-contactless-fingerprint"]
+	path = Track-C-contactless-fingerprint
+	url = https://github.com/TalhaNagina/Track-C-contactless-fingerprint
