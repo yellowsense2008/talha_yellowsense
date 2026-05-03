@@ -13,3 +13,6 @@
 [submodule "contactless-fingerprint-demo"]
 	path = contactless-fingerprint-demo
 	url = https://huggingface.co/spaces/talha-yellowsense/contactless-fingerprint-demo
+[submodule "yellowsense-compliance-demo"]
+	path = yellowsense-compliance-demo
+	url = https://huggingface.co/spaces/talha-yellowsense/yellowsense-compliance-demo
