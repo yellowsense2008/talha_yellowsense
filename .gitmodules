@@ -1,0 +1,6 @@
+[submodule "rbi-track2"]
+	path = rbi-track2
+	url = https://github.com/yellowsense2008/rbi-track2
+[submodule "RWE-analytics"]
+	path = RWE-analytics
+	url = https://github.com/TalhaNagina/RWE-analytics
