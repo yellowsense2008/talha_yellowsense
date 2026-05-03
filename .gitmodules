@@ -4,3 +4,6 @@
 [submodule "RWE-analytics"]
 	path = RWE-analytics
 	url = https://github.com/TalhaNagina/RWE-analytics
+[submodule "Track-B-contactless-fingerprint"]
+	path = Track-B-contactless-fingerprint
+	url = https://github.com/TalhaNagina/Track-B-contactless-fingerprint
