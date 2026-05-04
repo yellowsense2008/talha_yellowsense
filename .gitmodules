@@ -16,3 +16,6 @@
 [submodule "yellowsense-compliance-demo"]
 	path = yellowsense-compliance-demo
 	url = https://huggingface.co/spaces/talha-yellowsense/yellowsense-compliance-demo
+[submodule "ayush-healthcare"]
+	path = ayush-healthcare
+	url = https://github.com/TalhaNagina/ayush-healthcare
